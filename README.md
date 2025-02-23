@@ -22,8 +22,8 @@ In this step, we explore and clean the dataset using Excel. The tasks include:
 ### 3. Feature Engineering
 Perform feature engineering on the cleaned dataset to create new features from existing ones. This step enhances the dataset's predictive power and provides more insights into the data.
 
-### 4. Dashboard Creation in MS Power BI
-Using the prepared dataset, create a dashboard in Microsoft Power BI. The dashboard focuses on understanding the spread of reported fraudulent claims over different customer/claim attributes. The visualizations include:
+### 4. Dashboard Creation in MS PowerBI
+Using the prepared dataset, create a dashboard in Microsoft PowerBI. The dashboard focuses on understanding the spread of reported fraudulent claims over different customer/claim attributes. The visualizations include:
 - Analysis of fraudulent claims by age category
 - Fraud reported over contract years
 - Binned values of total premiums paid
@@ -32,4 +32,4 @@ Using the prepared dataset, create a dashboard in Microsoft Power BI. The dashbo
 
 ## Dependencies
 - Microsoft Excel
-- Microsoft Power BI
+- Microsoft PowerBI
